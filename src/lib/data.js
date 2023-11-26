@@ -136,3 +136,4 @@ export const servicesData = [
       'Ofrece servicios para bodas y otros eventos. Esto puede incluir la preparación de pasteles personalizados para la ceremonia, la recepción y otros eventos del día. También puedes ofrecer servicios de decoración de pasteles y postres para estos eventos'
   }
 ]
+

@@ -4,7 +4,7 @@ import styles from './services.module.css';
 
 export default function Services() {
   return (
-    <section className={styles.services}>
+    <section id="servicios" className={styles.services}>
       <h2>Servicios</h2>
       <div className={styles.container}>
         {servicesData.map(({ title, description }) => (

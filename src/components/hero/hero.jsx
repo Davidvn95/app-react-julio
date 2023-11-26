@@ -2,7 +2,7 @@ import styles from './hero.module.css'
 
 export default function Hero() {
   return (
-    <section className={styles.hero}>
+    <section id='inicio' className={styles.hero}>
       <h1>Pasteleria dulce tentacion</h1>
       <p>
         ¡Descubre el placer de cada bocado con nosotros! Ven y
